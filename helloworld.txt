@@ -1,1 +1,24 @@
+<<<<<<< HEAD
 ﻿test
+=======
+﻿dacffnfdnbgfbgdffkdmgk
+asfasf
+asfasff
+asfasff
+asfasff
+asfasff
+asfasfa
+f
+asfasff
+
+asfasfa
+f
+asfasff
+
+
+
+asfasfas
+f
+asfasf
+
+>>>>>>> 1cf2bbbd2dfc171007566e4b2f215598497eb686

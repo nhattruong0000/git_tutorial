@@ -1,24 +1,10 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 ﻿test
 =======
-﻿dacffnfdnbgfbgdffkdmgk
-asfasf
-asfasff
-asfasff
-asfasff
-asfasff
-asfasfa
-f
-asfasff
+﻿
 
-asfasfa
-f
-asfasff
-
-
-
-asfasfas
-f
-asfasf
-
+<<<<<<< HEAD
 >>>>>>> 1cf2bbbd2dfc171007566e4b2f215598497eb686
+=======
+1111111
+>>>>>>> 29e8e73f34190fc786afb1645241e07dc5627e10
